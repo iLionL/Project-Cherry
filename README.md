@@ -1,7 +1,7 @@
 # Project-Cherry
 ### Проект "Сherry"
 ***
-https://ilionl.github.io/Project-BrightStars/
+https://ilionl.github.io/Project-Cherry/
 ***
 ### Иллюстрация к проекту
 ***
